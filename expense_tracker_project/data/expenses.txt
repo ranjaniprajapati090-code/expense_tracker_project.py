@@ -1,0 +1,6 @@
+500.0,food,2025-04-28
+200.0,medicine,2025-11-25
+200.0,healthcare,2025-09-08
+300.0,transport,2024-10-25
+250.0,groceries,2025-09-25
+280.0,subscription,2025-04-05
